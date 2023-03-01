@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Dell
+Build-Jdk: 14.0.1
+Implementation-Title: resttempalteExample
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bharath.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/resttempalteExample
+Created-By: Maven Integration for Eclipse
+
